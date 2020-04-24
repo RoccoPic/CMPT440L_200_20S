@@ -1,0 +1,7 @@
+(a|b)*(aba|bab)(a|b)*
+ababa
+babababab
+baba
+abba
+abaa
+abab
